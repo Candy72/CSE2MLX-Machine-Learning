@@ -1,0 +1,11 @@
+Model,Age,Millage,Price,Available
+Toyota,8,120000,10000,Yes
+Mazda,2,21000,20000,No
+Nissan,1,5700,30000,Yes
+Benz,4,60000,40000,Yes
+BMW,6,210000,,No
+Toyota,10,149040,4800,No
+Mazda,1,17000,35000,Yes
+Nissan,3,52000,22000,No
+Benz,7,,19000,No
+BMW,10,236640,6000,Yes
